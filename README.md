@@ -1,12 +1,21 @@
-# React + Vite
+# 🎨 Gradient Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that generates beautiful random gradients in linear, radial, or conic styles. Users can specify the number of gradients to generate, preview them, and easily copy the CSS code with a click. The app uses React state and effects to dynamically create gradients and provides user feedback with toast notifications.
 
-Currently, two official plugins are available:
+## Live Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**[Gradient Generator](https://easy-gradient.netlify.app "Go to live site")**
 
-## Expanding the ESLint configuration
+## ⚙️ Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/younus-always/react-gradient-generator.git
+cd react-gradient-generator
+```
+
+```bash
+Install dependencies:
+npm install
+```
