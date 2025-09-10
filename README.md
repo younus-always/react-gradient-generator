@@ -15,7 +15,7 @@ git clone https://github.com/younus-always/react-gradient-generator.git
 cd react-gradient-generator
 ```
 
-```bash
 Install dependencies:
+```bash
 npm install
 ```
